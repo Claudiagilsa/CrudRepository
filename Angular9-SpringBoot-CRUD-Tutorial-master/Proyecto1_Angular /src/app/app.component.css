@@ -1,0 +1,11 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.header {
+    position: absolute;
+    bottom: 0;
+    width:100%;
+    height: 70px;
+    background-color: mediumpurple;
+    text-align: center;
+    color: black;
+}
